@@ -35,6 +35,10 @@ The dataset is [available](data/) in two widely-supported open formats: CSV and 
 
 This repository also contains a [simple Python script](scripts/extract.py) to extract the dataset from the newsletter’s [Markdown-formatted archive](https://github.com/data-is-plural/newsletter-archive). For the script to work, you’ll need first to run this command from the repository’s root directory: `git clone https://github.com/data-is-plural/newsletter-archive.git archive`.
 
+## Licensing
+
+ The data files in this repository are available under the [Creative Commons Attribution 4.0 International (CC BY 4.0) license](https://creativecommons.org/licenses/by/4.0/). The code is available under the [MIT License](https://opensource.org/licenses/MIT).
+
 ## Meta-Feedback?
 
 [Get in touch 📨](https://www.jsvine.com/)
