@@ -2182,5 +2182,19 @@
     "core": "streaming feedback",
     "preposition": "to",
     "fifth_hed": "Video games."
+  },
+  {
+    "date": "2022-12-14",
+    "verb": "Send",
+    "core": "federated feedback",
+    "preposition": "to",
+    "fifth_hed": "Mastodon membership."
+  },
+  {
+    "date": "2022-12-21",
+    "verb": "Send",
+    "core": "downhill and cross-country feedback",
+    "preposition": "to",
+    "fifth_hed": "Ski trails."
   }
 ]
