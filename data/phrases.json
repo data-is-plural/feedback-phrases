@@ -2224,5 +2224,26 @@
     "core": "feline feedback",
     "preposition": "to",
     "fifth_hed": "Cats on the move."
+  },
+  {
+    "date": "2023-02-01",
+    "verb": "Send",
+    "core": "premier feedback",
+    "preposition": "to",
+    "fifth_hed": "More English football."
+  },
+  {
+    "date": "2023-02-08",
+    "verb": "Send",
+    "core": "six more weeks of feedback",
+    "preposition": "to",
+    "fifth_hed": "Prognosticating groundhogs."
+  },
+  {
+    "date": "2023-02-15",
+    "verb": "Send",
+    "core": "open feedback",
+    "preposition": "to",
+    "fifth_hed": "Open Data Day events."
   }
 ]
