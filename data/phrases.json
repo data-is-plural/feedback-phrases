@@ -2245,5 +2245,285 @@
     "core": "open feedback",
     "preposition": "to",
     "fifth_hed": "Open Data Day events."
+  },
+  {
+    "date": "2023-02-22",
+    "verb": "Send",
+    "core": "data-reported feedback",
+    "preposition": "to",
+    "fifth_hed": "Data journalists, surveyed."
+  },
+  {
+    "date": "2023-03-01",
+    "verb": "Send",
+    "core": "overmature feedback",
+    "preposition": "to",
+    "fifth_hed": "Thump, thump, coconut."
+  },
+  {
+    "date": "2023-03-08",
+    "verb": "Send",
+    "core": "unrenewed feedback",
+    "preposition": "to",
+    "fifth_hed": "Shows cut short."
+  },
+  {
+    "date": "2023-03-15",
+    "verb": "Send",
+    "core": "marvelous feedback",
+    "preposition": "to",
+    "fifth_hed": "The market for X-Men."
+  },
+  {
+    "date": "2023-03-22",
+    "verb": "Send",
+    "core": "octagonal feedback",
+    "preposition": "to",
+    "fifth_hed": "Stop signs."
+  },
+  {
+    "date": "2023-03-29",
+    "verb": "Send",
+    "core": "potable feedback",
+    "preposition": "to",
+    "fifth_hed": "Milan drinking fountains."
+  },
+  {
+    "date": "2023-04-05",
+    "verb": "Send",
+    "core": "freshwater feedback",
+    "preposition": "to",
+    "fifth_hed": "Midwestern mollusks."
+  },
+  {
+    "date": "2023-04-12",
+    "verb": "Send",
+    "core": "fibrous feedback",
+    "preposition": "to",
+    "fifth_hed": "Dutch textile shipments."
+  },
+  {
+    "date": "2023-04-19",
+    "verb": "Send",
+    "core": "unauthorized feedback",
+    "preposition": "to",
+    "fifth_hed": "\u201cPirate radio\u201d enforcement."
+  },
+  {
+    "date": "2023-04-26",
+    "verb": "Send",
+    "core": "high-yield feedback",
+    "preposition": "to",
+    "fifth_hed": "The Morrow Plots."
+  },
+  {
+    "date": "2023-05-10",
+    "verb": "Send",
+    "core": "interplanetary feedback",
+    "preposition": "to",
+    "fifth_hed": "Planetary nomenclature."
+  },
+  {
+    "date": "2023-05-17",
+    "verb": "Send",
+    "core": "a pulse of feedback",
+    "preposition": "to",
+    "fifth_hed": "Collective nouns."
+  },
+  {
+    "date": "2023-05-24",
+    "verb": "Send",
+    "core": "hammy feedback",
+    "preposition": "to",
+    "fifth_hed": "Protected European ham."
+  },
+  {
+    "date": "2023-05-31",
+    "verb": "Send",
+    "core": "debris-sheltered feedback",
+    "preposition": "to",
+    "fifth_hed": "NYC sidewalk scaffolding."
+  },
+  {
+    "date": "2023-06-07",
+    "verb": "Send",
+    "core": "cryptovirological feedback",
+    "preposition": "to",
+    "fifth_hed": "Ransomware negotiations."
+  },
+  {
+    "date": "2023-06-14",
+    "verb": "Send",
+    "core": "fewer than 4.5 rodent hairs per 225 grams of feedback",
+    "preposition": "to",
+    "fifth_hed": "Food defect thresholds."
+  },
+  {
+    "date": "2023-06-28",
+    "verb": "Send",
+    "core": "cleared-for-takeoff feedback",
+    "preposition": "to",
+    "fifth_hed": "Swedish air traffic control."
+  },
+  {
+    "date": "2023-07-12",
+    "verb": "Send",
+    "core": "globally-averaged feedback",
+    "preposition": "to",
+    "fifth_hed": "\u201cThe global human day.\u201d"
+  },
+  {
+    "date": "2023-07-26",
+    "verb": "Send",
+    "core": "obsessively documented feedback",
+    "preposition": "to",
+    "fifth_hed": "Comedians, challenged."
+  },
+  {
+    "date": "2023-08-02",
+    "verb": "Send",
+    "core": "foraged feedback",
+    "preposition": "to",
+    "fifth_hed": "Forageable fruit."
+  },
+  {
+    "date": "2023-08-09",
+    "verb": "Send",
+    "core": "lucky feedback",
+    "preposition": "to",
+    "fifth_hed": "Winning numbers."
+  },
+  {
+    "date": "2023-08-23",
+    "verb": "Send",
+    "core": "communally-owned feedback",
+    "preposition": "to",
+    "fifth_hed": "Scotland\u2019s Common Good."
+  },
+  {
+    "date": "2023-09-06",
+    "verb": "Send",
+    "core": "made-up feedback",
+    "preposition": "to",
+    "fifth_hed": "Vox populi, except not."
+  },
+  {
+    "date": "2023-09-13",
+    "verb": "Send",
+    "core": "vain feedback",
+    "preposition": "to",
+    "fifth_hed": "License plate designs."
+  },
+  {
+    "date": "2023-09-20",
+    "verb": "Send",
+    "core": "microscopic feedback",
+    "preposition": "to",
+    "fifth_hed": "Bug shots."
+  },
+  {
+    "date": "2023-09-27",
+    "verb": "Send",
+    "core": "time-worn feedback",
+    "preposition": "to",
+    "fifth_hed": "Ancient places."
+  },
+  {
+    "date": "2023-10-11",
+    "verb": "Bark",
+    "core": "your feedback",
+    "preposition": "to",
+    "fifth_hed": "Dog genomes."
+  },
+  {
+    "date": "2023-10-25",
+    "verb": "Send",
+    "core": "informative feedback",
+    "preposition": "to",
+    "fifth_hed": "*Beautiful* spreadsheets."
+  },
+  {
+    "date": "2023-11-01",
+    "verb": "Dispatch",
+    "core": "your feedback",
+    "preposition": "to",
+    "fifth_hed": "Two Zurich buses."
+  },
+  {
+    "date": "2023-11-15",
+    "verb": "Send",
+    "core": "freshly roasted feedback",
+    "preposition": "to",
+    "fifth_hed": "Coffee tasting."
+  },
+  {
+    "date": "2023-11-22",
+    "verb": "Send",
+    "core": "concave feedback",
+    "preposition": "to",
+    "fifth_hed": "Moon dents."
+  },
+  {
+    "date": "2023-11-29",
+    "verb": "Send",
+    "core": "genre-bending feedback",
+    "preposition": "to",
+    "fifth_hed": "Romance book covers."
+  },
+  {
+    "date": "2023-12-06",
+    "verb": "Send",
+    "core": "flipped feedback",
+    "preposition": "to",
+    "fifth_hed": "Many coin flips."
+  },
+  {
+    "date": "2023-12-13",
+    "verb": "Send",
+    "core": "road-safe feedback",
+    "preposition": "to",
+    "fifth_hed": "Finland transport."
+  },
+  {
+    "date": "2023-12-20",
+    "verb": "Send",
+    "core": "globally available feedback",
+    "preposition": "to",
+    "fifth_hed": "Netflix viewership."
+  },
+  {
+    "date": "2024-01-17",
+    "verb": "Send",
+    "core": "commercially available feedback",
+    "preposition": "to",
+    "fifth_hed": "Star Trek chairs."
+  },
+  {
+    "date": "2024-01-24",
+    "verb": "Send",
+    "core": "head-to-toe feedback",
+    "preposition": "to",
+    "fifth_hed": "Human heights."
+  },
+  {
+    "date": "2024-01-31",
+    "verb": "Send",
+    "core": "all hues of feedback",
+    "preposition": "to",
+    "fifth_hed": "Taylor\u2019s colors."
+  },
+  {
+    "date": "2024-02-07",
+    "verb": "Send",
+    "core": "antiquarian feedback",
+    "preposition": "to",
+    "fifth_hed": "Amateur archaeological finds."
+  },
+  {
+    "date": "2024-02-14",
+    "verb": "Send",
+    "core": "zigzagging feedback",
+    "preposition": "to",
+    "fifth_hed": "Twisty roads."
   }
 ]
